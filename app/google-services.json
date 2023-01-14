@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "51655010362",
+    "project_id": "smartgrowingapp",
+    "storage_bucket": "smartgrowingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51655010362:android:42403bc372aeb8e131ad03",
+        "android_client_info": {
+          "package_name": "com.smartgrowing.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51655010362-ciquovap91r0q80dflrl306r6hdjceja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartgrowing.app",
+            "certificate_hash": "0fe9193d5aeff0029505dafcdff2fddc63b8c0f2"
+          }
+        },
+        {
+          "client_id": "51655010362-6irp2hffe5peku6hmbqvh2asv7murfb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr9P3hW97dP7WcKmcveaqHRlmY4e_nFLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51655010362-6irp2hffe5peku6hmbqvh2asv7murfb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
